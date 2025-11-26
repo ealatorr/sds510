@@ -1,0 +1,19 @@
+Script started on Wed Nov 26 16:47:15 2025
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hlls[?2004l
+education_namedfiles.txt	log.tar.gz			sds510-thumb
+log.csv				mod1_transcript.txt
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004h[7mgrep ',education[A-Za-z0-9._-]*\.txt' [7ml[7mog.csv > education_namedfiles.txt[27m[K[A[25C[27mg[27mr[27me[27mp[27m [27m'[27m,[27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m[[27mA[27m-[27mZ[27ma[27m-[27mz[27m0[27m-[27m9[27m.[27m_[27m-[27m][27m*[27m\[27m.[27mt[27mx[27mt[27m'[27m l[27mo[27mg[27m.[27mc[27ms[27mv[27m [27m>[27m [27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m_[27mn[27ma[27mm[27me[27md[27mf[27mi[27ml[27me[27ms[27m.[27mt[27mx[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004h[7mwc -l education_namedfiles.txt[27m[30D[27mw[27mc[27m [27m-[27ml[27m [27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m_[27mn[27ma[27mm[27me[27md[27mf[27mi[27ml[27me[27ms[27m.[27mt[27mx[27mt[?2004l
+       2 education_namedfiles.txt
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004h[7mhead education_namedfiles.txt[27m[29D[27mh[27me[27ma[27md[27m [27me[27md[27mu[27mc[27ma[27mt[27mi[27mo[27mn[27m_[27mn[27ma[27mm[27me[27md[27mf[27mi[27ml[27me[27ms[27m.[27mt[27mx[27mt[?2004l
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+Script done on Wed Nov 26 16:49:07 2025
