@@ -1,0 +1,75 @@
+Script started on Wed Nov 26 17:20:08 2025
+Restored session: Wed Nov 26 16:49:07 MST 2025
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hlls[?2004l
+LICENSE			log.tar.gz		README.md
+log.csv			mod1_transcript.txt	sds510-thumb
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004httar -xvzf log.tar.gz[?2004l
+x log.csv
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hlls[?2004l
+LICENSE			log.tar.gz		README.md
+log.csv			mod1_transcript.txt	sds510-thumb
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hhhead log.csv[?2004l
+ip,date,time,zone,cik,accession,extention,code,size,idx,norefer,noagent,find,crawler,browser
+101.81.229.jeb,2017-06-27,00:00:00,0.0,83402.0,0000083402-97-000006,-index.html,200.0,7492.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,748592.0,0001019687-09-002913,-index.htm,200.0,7931.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,768835.0,0000950152-00-003270,-index.html,200.0,7809.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,769397.0,0000929624-99-000165,-index.html,200.0,6624.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,769397.0,0000769397-17-000031,-index.htm,200.0,11561.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,354950.0,0000354950-99-000003,-index.html,200.0,7224.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,886744.0,0001095811-01-504221,-index.htm,200.0,6420.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,842183.0,0000950123-94-000909,-index.html,200.0,6356.0,1.0,0.0,0.0,10.0,0.0,
+101.81.229.jeb,2017-06-27,00:00:00,0.0,748592.0,0001019687-13-004331,-index.htm,200.0,11234.0,1.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hggrep "education".txt logcsv   .csv[?2004l
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hggrep'[Ea]ducation[A-Za-z)-9._-]*\.txt' [K  log.csv[?2004l
+zsh: command not found: grep[Ea]ducation[A-Za-z)-9._-]*\.txt
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hgrep'[Ea]ducation[A-Za-z)-9._-]*\.txt' log.csv[K[A[51C[K[1B[K[A[59Cgrep'[Ea]ducation[A-Za-z)-9._-]*\.txt' log.csv[K[A[96C[1C[P[29C log.csv [A[59C[P[30Clog.csv [A[59Caducation[A-Za-z)-9._-]*\.txt' log.csv[A[60C]ducation[A-Za-z)-9._-]*\.txt' log.csv[A[60C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C]*\.txt' log.csv[A[81C[1C*\.txt' log.csv [A[80C[1C[P[13C log.csv [A[75C[P[14Clog.csv [A[75Cz-9._-]*\.txt' log.csv[A[76Cz-9._-]*\.txt' log.csv[A[76C[P[13C log.csv [A[75C0-9._-]*\.txt' log.csv[A[76C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1B[?2004l
+zsh: command not found: grep[Ea]ducation[A-Za-z0-9._-]*\.txt
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hgrep'[Ea]ducation[A-Za-z0-9._-]*\.txt' log.csv[K[A[96C '[Ea]ducation[A-Za-z0-9._-]*\.txt' log.csv[A[55C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1B[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hl grep '[Ea]ducation[A-Za-z0-9._-]*\.txt' log.csv[K[A[96C[1C[P[29C' log.csv [A[58Ce]ducation[A-Za-z0-9._-]*\.txt' log.csv[A[59C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1B[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itteducation012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.education.gro.txt,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+206.200.253.bjg,2017-06-27,15:02:11,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,4678.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,careereducation3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,16:27:39,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hgrep '[Ee]ducation[A-Za-z0-9._-]*\.txt' log.csv[K[A[96C,'[Ee]ducation[A-Za-z0-9._-]*\.txt' log.csv[A[55C[P[32Ct' log.csv [A[54C[1C,[Ee]ducation[A-Za-z0-9._-]*\.txt' log.csv[A[56C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1B[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hgrep ',[Ee]ducation[A-Za-z0-9._-]*\.txt' log.csv[K[1C. education_foundfiles.txt[?2004l
+log.csv:40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+^[[A^[[A        log.csv:86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+grep: .: Is a directory
+grep: education_foundfiles.txt: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hgrep ',[Ee]ducation[A-Za-z0-9._-]*\.txt' log.csv . education_foundfiles.txt[K[1C> ed   [P[25C [26D[P[24C [26D. education_foundfiles.txt[25D[P[25C [26D> education_foundfiles.txt[25D[P[25C [26D[1C education_foundfiles.txt[25D> education_foundfiles.txt[25D[1C education_foundfiles.txt[25D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hwwc -1 education_foundfiles.txt[?2004l
+wc: illegal option -- 1
+usage: wc [-Lclmw] [file ...]
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hwwc -l education_foundfiles.txt[?2004l
+       2 education_foundfiles.txt
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004hhhead educationfoundfiles          _foundfiles.txt[?2004l
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Emersons-MacBook-Pro.local/Users/emersonalatorre/sds510-thumb[0m[27m[24m[J(base) emersonalatorre@Emersons-MacBook-Pro sds510-thumb % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Nov 26 17:35:03 2025
